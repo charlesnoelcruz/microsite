@@ -1,4 +1,4 @@
-/*article,
+article,
 aside,
 details,
 figcaption,
@@ -15,17 +15,7 @@ video {
     *display: inline;
     *zoom: 1;
 }
-audio:not([controls]) { display: none }
-html {
-    font-size: 100%;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-}
-a:focus {
-    outline: thin dotted #333;
-    outline: 5px auto -webkit-focus-ring-color;
-    outline-offset: -2px;
-}
+
 a:hover,
 a:active { outline: 0 }
 sub,
@@ -34,7 +24,7 @@ sup {
     font-size: 75%;
     line-height: 0;
     vertical-align: baseline;
-}
+};kll;kl;kl;klk
 sup { top: -0.5em }
 sub { bottom: -0.25em }
 
@@ -5060,4 +5050,3 @@ table.pricing-data-state-tbl tr.info th { background-color: #EFF5F8 }
 }
 
 /* landing page twitter bootstrap END */
-*/
